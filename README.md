@@ -1,4 +1,35 @@
-# mini.adventure.game.py
+## -----------------Adventure Game (Python)---------------------
+
+## Technologies Used
+Python 3
+Basic CLI (Command Line Interface)
+Functions & Conditional Statements
+
+## Installation
+Python install karo (Python 3 recommended)
+Repository clone karo:
+git clone https://github.com/ayush893singh/adventure-game.git
+Folder me jao:
+cd adventure-game
+
+## How It Works
+Yeh ek simple text-based adventure game hai jisme player choices ke basis par story aage badhti hai.
+
+Player jungle me start karta hai
+Har step par usse decision lena hota hai (left/right, swim/bridge, etc.)
+Har decision ka alag outcome hota hai (win/lose)
+Game branching logic par based hai
+
+##  How It Works
+Yeh ek simple text-based adventure game hai jisme player choices ke basis par story aage badhti hai.
+
+Player jungle me start karta hai
+Har step par usse decision lena hota hai (left/right, swim/bridge, etc.)
+Har decision ka alag outcome hota hai (win/lose)
+Game branching logic par based hai
+
+## Code
+```
 def start_game():
     print("-------Welcome to Adventure Game-------")
     print("Tum ek jungle me ho...\n")
@@ -39,3 +70,23 @@ def right_path():
 
 if __name__ == "__main__":
     start_game()
+```
+
+## Sample Output
+-------Welcome to Adventure Game-------
+Tum ek jungle me ho...
+
+Left jao ya Right? (left/right): left
+
+Tum left gaye aur ek river mili
+Tair kar cross karo ya bridge use karo? (swim/bridge): bridge
+
+CONGRATULATION
+Tum safely cross kar gaye aur Khazana mil gaya
+
+## Author
+Ayush Singh
+GitHub: https://github.com/ayush893singh
+
+
+
