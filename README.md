@@ -6,11 +6,7 @@ Basic CLI (Command Line Interface)
 Functions & Conditional Statements
 
 ## Installation
-Python install karo (Python 3 recommended)
-Repository clone karo:
-git clone https://github.com/ayush893singh/adventure-game.git
-Folder me jao:
-cd adventure-game
+Python install karo 
 
 ## How It Works
 Yeh ek simple text-based adventure game hai jisme player choices ke basis par story aage badhti hai.
