@@ -2,7 +2,6 @@
 
 ## Technologies Used
 Python 3
-Basic CLI (Command Line Interface)
 Functions & Conditional Statements
 
 ## Installation
