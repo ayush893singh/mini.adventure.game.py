@@ -67,7 +67,7 @@ if __name__ == "__main__":
     start_game()
 ```
 
-## Sample Output
+## Output
 -------Welcome to Adventure Game-------
 Tum ek jungle me ho...
 
